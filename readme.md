@@ -1,6 +1,6 @@
 # ModelSwitcher
 
-Swicth models using strings.
+Switch models using strings.
 
 ## Usage
 ```python
