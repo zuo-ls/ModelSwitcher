@@ -16,6 +16,6 @@ if __name__ == '__main__':
     enc1 = Encoder().get_from_dict(config)
 
     config = {
-        'cnnmodel': dict(input_dim=10, output_dim=5),
+        'cnnmodel': dict(input_dim=10, output_dim=5, kernel_size=3),
     }
     enc2 = Encoder().get_from_dict(config)
