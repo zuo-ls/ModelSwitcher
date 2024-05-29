@@ -2,6 +2,7 @@
 
 Swicth models using strings.
 
+## Usage
 ```python
 from models import LinearModel, CNNModel, RNNModel
 from model_grouper import ModelGrouper
